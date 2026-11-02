@@ -205,7 +205,7 @@
     "gopd": "^1.0.1",
     "graceful-fs": "^4.2.11",
     "growl": "^1.10.5",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.10",
     "har-schema": "^2.0.0",
     "har-validator": "^5.1.5",
     "hardhat-gas-reporter": "^1.0.9",
