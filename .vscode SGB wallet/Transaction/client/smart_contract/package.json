@@ -484,7 +484,7 @@
     "typical": "^4.0.0",
     "uglify-js": "^3.17.4",
     "unbox-primitive": "^1.0.2",
-    "undici": "^5.22.0",
+    "undici": "^6.29.1",
     "universalify": "^0.1.2",
     "unpipe": "^1.0.0",
     "uri-js": "^4.4.1",
